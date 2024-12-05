@@ -2,6 +2,7 @@
   "mod_priorities": [
     "minecraft",
     "kubejs",
+    "immersiveengineering",
     "mekanism"
   ],
   "priority_overrides": {},
@@ -26,7 +27,8 @@
     "c:rods/{material}",
     "c:storage_blocks/raw_{material}",
     "c:storage_blocks/{material}",
-    "c:wires/{material}"
+    "c:wires/{material}",
+	"#c:storage_blocks/charcoal"
   ],
   "ignored_tags": [],
   "ignored_items": [],
